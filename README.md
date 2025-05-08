@@ -1,7 +1,7 @@
 <!-- SURESH SAHANI README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+Suresh+Sahani;🔥+Java+Developer+Extraordinaire;⚡+Spring+Boot+Wizard;💡+Backend+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+SureshSahani;🔥+Java+Developer+Extraordinaire;⚡+Spring+Boot+Wizard;💡+Backend+Craftsman" alt="Typing SVG" />
 </h1>
 
 ---
